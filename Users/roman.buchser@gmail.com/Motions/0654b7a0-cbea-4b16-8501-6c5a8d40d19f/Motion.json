@@ -1,0 +1,15 @@
+{
+    "id": "a2e4a2d5-bde4-4b3e-b376-ee3e1dbcbade",
+    "name": "Standing",
+    "description": "Standing pose to rest and recovery.",
+    "file": "StandingPose.glb",
+    "fileType": "GLB",
+    "screenshot": "Screenshot.jpg",
+    "level": 0,
+    "equipment": ["NoEquipment"],
+    "bodyParts": [],
+    "muscleGroups": [],
+    "categories": ["Rest"],
+    "primaryJoints": [],
+    "labels": []
+}

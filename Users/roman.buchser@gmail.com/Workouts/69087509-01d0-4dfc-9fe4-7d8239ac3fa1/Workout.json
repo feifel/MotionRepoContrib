@@ -1,0 +1,51 @@
+{
+    "id": "38d8baa2-c288-448c-8a44-98226e477a62",
+    "name": "Minimal Workout",
+    "description": "A sample workout for demonstration.",
+    "exercises": [
+        {
+            "id": "8b64a727-99b1-465b-b620-556563d2720d",
+            "motionId": "23b03363-3b5f-4a5e-804b-8d490f8e51e6",
+            "speed": 100,
+            "repetitions": 12,
+            "duration": 0,
+            "exerciseType": 0,
+            "customFields": {
+                "name": "Sumo Squats"
+            }
+        },
+        {
+            "id": "55d1c645-673c-4f05-8a4e-3e1268666d64",
+            "motionId": "a2e4a2d5-bde4-4b3e-b376-ee3e1dbcbade",
+            "speed": 0,
+            "repetitions": 0,
+            "duration": 30,
+            "exerciseType": 1,
+            "customFields": {
+                "name": "Rest (stand still)"
+            }
+        },
+        {
+            "id": "031952ed-59e9-4ec1-b754-5edbe5f76825",
+            "motionId": "7ef293cb-383b-41ba-8085-049064cbbc73",
+            "speed": 0,
+            "repetitions": 12,
+            "duration": 0,
+            "exerciseType": 0,
+            "customFields": {
+                "name": "Pushups"
+            }
+        },
+        {
+            "id": "031952ed-59e9-4ec1-b754-5edbe5f76825",
+            "motionId": "f7691059-c26d-4a3c-a45f-f8f9f0ab1436",
+            "speed": 0,
+            "repetitions": 0,
+            "duration": 30,
+            "exerciseType": 1,
+            "customFields": {
+                "name": "Rest (sitting on the floor)"
+            }
+        }
+    ]
+}
